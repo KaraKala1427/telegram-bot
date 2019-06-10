@@ -46,8 +46,8 @@ def main():
     updater.bot.set_webhook("https://yera1235.herokuapp.com/" + TOKEN)
     updater.idle()
 
-    updater.idle()
-    #updater.start.webhook()
+    # updater.idle()
+    # updater.start.webhook()
 
 if __name__ == '__main__':
     main()
